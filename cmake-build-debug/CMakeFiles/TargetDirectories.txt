@@ -1,0 +1,3 @@
+/home/richard/Programming/CLionProjects/C++Notes/cmake-build-debug/CMakeFiles/C__Notes.dir
+/home/richard/Programming/CLionProjects/C++Notes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/richard/Programming/CLionProjects/C++Notes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
